@@ -6,14 +6,22 @@ I lead the technical operations at UNB Libraries: a team of developers, and the 
 
 ## Selected work
 
-- **Shared LLM gateway**: UNB Libraries' applications access LLMs through a shared gateway API.
-- [Dockworker](https://github.com/unb-libraries/dockworker): A single technical entry point and a consistent, unified workflow for developers, site builders, and operations engineers, regardless of the application framework.
+- [New Brunswick Historical Newspapers Project](https://newspapers.lib.unb.ca/): A unified interface to UNB Libraries' current and historical newspaper collections: nearly 50,000 issues and 325,000 pages from New Brunswick and around the world, digitized from microfilm and print, OCR-indexed, and available as both page images and full text. I designed the application, infrastructure, and image ingest workflows.
+- [UNB Scholar](https://unbscholar.lib.unb.ca/): UNB Libraries' institutional repository, preserving and providing open access to nearly 11,000 works by the UNB community. I designed the infrastructure and workflows and have managed and evolved the service since 2015, including three major platform upgrades.
+- [Peskotomuhkati-Wolastoqey Language Portal](https://pmportal.org/): A dictionary of the Peskotomuhkati-Wolastoqey (Passamaquoddy-Maliseet) language with audio recordings, example phrases, and video. I designed the infrastructure and workflows, including a speaker audio recording interface, media delivery, and search for a non-English orthography.
+- **Shared LLM gateway**: UNB Libraries' applications access LLMs through a shared gateway API. I designed the architecture and led its implementation.
+- [Dockworker](https://github.com/unb-libraries/dockworker): A single technical entry point and a consistent, unified workflow for developers, site builders, and operations engineers, regardless of the application framework. I designed Dockworker, which now underpins more than 75 projects.
+
+## Personal projects
+
 - [docker-rtmp-multistream](https://github.com/JacobSanford/docker-rtmp-multistream): Streams live video to YouTube, Twitch, and other platforms at the same time.
+- [docker-mariadb-snapshot](https://jacobsanford.github.io/docker-mariadb-snapshot/): Scheduled MariaDB and MySQL database snapshots, with automated rotation and retention.
+- [scavnet](https://github.com/JacobSanford/scavnet): Simulates radio transmissions of audio vignettes, so stories unfold over variable timelines.
 
 ## Elsewhere
 
 - Website: [jacobsanford.com](https://jacobsanford.com)
-- CV: [3-page summary](https://jacobsanford.com/cv/Jacob-Sanford-CV.pdf) or the [full 5-page record](https://jacobsanford.com/cv/Jacob-Sanford-CV-Full.pdf) (PDF)
+- CV: [Full](https://jacobsanford.com/cv/Jacob-Sanford-CV-Full.pdf) / [Condensed](https://jacobsanford.com/cv/Jacob-Sanford-CV.pdf) (PDF)
 - LinkedIn: [Jacob Sanford](https://www.linkedin.com/in/jacob-sanford-5762bb63/)
 - Email: [jacob@jacobsanford.com](mailto:jacob@jacobsanford.com)
 
