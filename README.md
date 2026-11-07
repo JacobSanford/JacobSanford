@@ -17,7 +17,7 @@ I lead the technical operations at UNB Libraries: a team of developers, and the 
 - [docker-rtmp-multistream](https://github.com/JacobSanford/docker-rtmp-multistream): Streams live video to YouTube, Twitch, and other platforms at the same time.
 - [route-53-dyndns](https://github.com/JacobSanford/route-53-dyndns): Dynamic DNS through the Amazon Route 53 API: keeps an A record pointed at a changing IP address.
 - [docker-mariadb-snapshot](https://jacobsanford.github.io/docker-mariadb-snapshot/): Scheduled MariaDB and MySQL database snapshots, with automated rotation and retention.
-- [scavnet](https://github.com/JacobSanford/scavnet): Simulates radio transmissions of audio vignettes, so stories unfold over variable timelines.
+- [scavnet](https://github.com/JacobSanford/scavnet): A tool for telling stories: simulates radio transmissions of audio vignettes, spinning out stories over variable timelines.
 
 ## Elsewhere
 
